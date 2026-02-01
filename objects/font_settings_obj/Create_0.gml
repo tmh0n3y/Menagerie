@@ -1,0 +1,1 @@
+global.font_main = font_add_sprite_ext(font_spr, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!.,?'", true, 1);
